@@ -6,7 +6,7 @@
 
 Building Noeis and personalOS. Senior PM in electrification at Briggs & Stratton. Student of Munger and Buffett.
 
-*"The big money is not in the buying and selling, but in the waiting." — Charlie Munger*
+*"Discharge your duties faithfully and well... at the end of the day — if you live long enough — like most people, you will get out of life what you deserve." — Charlie Munger*
 
 [![Noeis](https://img.shields.io/badge/noeis.io-visit-8a6d3b)](https://noeis.io) [![Metis Review](https://img.shields.io/badge/Metis_Review-Substack-FF6719)](https://athantsokolas.substack.com) [![Munger-Buffett OS](https://img.shields.io/badge/Munger--Buffett_OS-GitHub-181717)](https://github.com/atsokolas/munger-buffett-operating-system)
 
